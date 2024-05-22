@@ -10,6 +10,6 @@ scikit_image==0.18.1
 scikit_learn==0.24.1
 scipy==1.6.1
 streamlit==0.81.1
-tensorflow==2.6.0
+tensorflow
 tqdm==4.59.0
 pencv_python==4.5.3.56
