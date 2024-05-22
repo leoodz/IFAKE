@@ -12,4 +12,4 @@ scipy==1.6.1
 streamlit==0.81.1
 tensorflow
 tqdm==4.59.0
-pencv_python==4.5.3.56
+opencv_python==4.5.3.56
